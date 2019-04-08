@@ -1,0 +1,44 @@
+.item{
+    display:flex;
+    justify-content:space-around;
+}
+.Name{
+       font-family: 'Germania One', cursive;
+        background:#cc66ff;
+        color:white;
+        padding:10px;
+        border:10px solid #7700b3;
+        text-align:center;
+        font-size:30px;
+}
+img{
+    width:100px;
+    height:100px;
+}
+.cartItem{
+    width:100px;
+    height:100px;
+}
+.inputs{
+ display:flex;
+ justify-content:space-around;
+ margin:50px;
+}
+.button{
+    margin:50px;
+    text-align:center;
+}
+.heading{
+    background:#cc66ff;
+    color:white;
+    border:5px solid #7700b3;
+    display:flex;
+ justify-content:space-around;
+}
+.cart{
+    border:5px solid #7700b3;
+}
+.item{
+    display:flex;
+    justify-content:space-around;
+}
